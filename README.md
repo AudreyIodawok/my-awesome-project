@@ -1,1 +1,1 @@
-This awesome project is created to experiment git notions like clone, push and pull
+J'ai réussi à faire le clone, le pull et le push !
